@@ -1,4 +1,4 @@
 # HatBack-Coin
 HatBack Coin 
 
-start/Play Game
+Start/Play Game
